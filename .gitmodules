@@ -1,0 +1,3 @@
+[submodule "supergreen"]
+	path = src
+	url = https://github.com/supergreenai/supergreen

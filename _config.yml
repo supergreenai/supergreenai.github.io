@@ -1,7 +1,0 @@
-remote_theme: pages-themes/architect@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-
-title: Supergreen.ai
-description: Supergreen, a python package dedicated to analyzing machine learning prediction errors, primarily focuses on models trained on tabular data.
-show_downloads: false

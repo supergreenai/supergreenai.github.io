@@ -1,8 +1,7 @@
 # API reference
 
 ::: supergreen.analysis
-  options:
+<!--  options:
     members:
       per_sample_loss
-      segment_gaps
-      explain_gaps
+      segment_gaps -->

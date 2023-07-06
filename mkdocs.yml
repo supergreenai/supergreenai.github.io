@@ -21,6 +21,13 @@ repo_url: https://github.com/supergreenai/supergreen
 markdown_extensions:
   - admonition
   - tables
+  - pymdownx.highlight
+  - pymdownx.superfences
+nav:
+  - index.md
+  - feature_engineering.md
+  - weak_segments.md
+  - api.md
 plugins:
   mkdocstrings:
     default_handler: python
